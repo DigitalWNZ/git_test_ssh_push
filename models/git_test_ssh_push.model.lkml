@@ -18,4 +18,5 @@ include: "/views/*.view.lkml"                # include all views in the views/ f
 #     sql_on: ${users.id} = ${orders.user_id} ;;
 #   }
 # }
+#
 explore: gaming_events_20230212_20230302 {}
